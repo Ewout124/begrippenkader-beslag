@@ -18,3 +18,35 @@ Deze review richt zich op het inrichten van het semantische reviewproces.
 ### Bevindingen
 
 * De huidige Excel bevat andere kolomnamen of een andere structuur dan verwacht. Deze wordt in de volgende review eerst gestandaardiseerd, zodat inhoudelijke wijzigingen betrouwbaar geautomatiseerd kunnen worden toegepast.
+
+## Semantic Review 01 – Begrippen A–B
+
+### Scope
+
+Eerste inhoudelijke semantische review van de alfabetisch geordende begrippen.
+
+### Gewijzigde definities
+
+- Beslag beheer
+- Beslag bewaring
+- Besluitname
+
+### Toegevoegd
+
+- Tabblad Redactieoverzicht
+- Tabblad Begripstypering
+
+### Begripstypering
+
+Voor de eerste kernbegrippen is een begripstype voorgesteld, inclusief een eerste indicatie van de relatie met W3C PROV (Entity, Activity of Agent).
+
+### Ontwerpbeslissing
+
+Bij de redactie wordt expliciet onderscheid gemaakt tussen:
+- juridische begrippen;
+- activiteiten;
+- rollen;
+- resultaten;
+- informatieobjecten.
+
+Dit onderscheid vormt de basis voor de verdere semantische modellering.
