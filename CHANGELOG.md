@@ -50,3 +50,30 @@ Bij de redactie wordt expliciet onderscheid gemaakt tussen:
 - informatieobjecten.
 
 Dit onderscheid vormt de basis voor de verdere semantische modellering.
+
+## Semantic Review 02 – Begrippen A–B (vervolg)
+
+### Gewijzigde begrippen
+
+* Beslagbeslissing
+* Beslaghandeling
+* Beslagproces
+* Beslagrol
+
+### Belangrijkste inhoudelijke wijzigingen
+
+* Begrippen die activiteiten beschrijven zijn consequenter als activiteit geformuleerd.
+* Het onderscheid tussen een afzonderlijke beslaghandeling en het totale beslagproces is verduidelijkt.
+* De definitie van Beslagbeslissing legt meer nadruk op het juridische rechtsgevolg van de beslissing.
+* De definitie van Beslagrol sluit beter aan op de modellering van rollen binnen informatiemodellen en W3C PROV.
+
+### Ontwerpbeslissing
+
+Tijdens de redactie is expliciet onderscheid gemaakt tussen:
+
+* activiteit;
+* proces;
+* rol;
+* juridisch besluit.
+
+Deze begrippen zullen in volgende iteraties verder worden gebruikt als referentiepatroon voor vergelijkbare begrippen.
