@@ -16,3 +16,22 @@ De baseline bestaat uit:
 * de actuele versie van de Excel Begrippenkader Beslag.xlsx
 
 Inhoudelijke semantische reviews starten vanaf de eerstvolgende commit.
+
+## Semantic Review 01
+
+### Gewijzigde begrippen
+
+* Beslagbeheer
+* Beslagbewaarlocatie
+* Beslagbewaarruimte
+* Beslagbewaarder
+
+### Inhoudelijke wijzigingen
+
+* De definitie van **Beslagbeheer** is uitgebreid zodat ook het verplaatsen van beslagvoorwerpen expliciet onderdeel uitmaakt van het beheer.
+* De definities van **Beslagbewaarlocatie** en **Beslagbewaarruimte** zijn aangescherpt om het onderscheid tussen locatie en ruimte duidelijker te maken.
+* De definitie van **Beslagbewaarder** maakt expliciet dat het gaat om de verantwoordelijkheid voor de feitelijke bewaring van beslagvoorwerpen.
+
+### Begripstypering
+
+Voor bovenstaande begrippen is een eerste begripstypering toegevoegd als voorbereiding op verdere semantische modellering en een latere PROV-classificatie.
