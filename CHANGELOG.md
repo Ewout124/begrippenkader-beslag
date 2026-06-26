@@ -57,3 +57,24 @@ Toegevoegd voor:
 * Aantonen wederrechtelijk voordeel
 * Achterhalen waarheid
 * Afname afstandverklaring
+
+## Semantic Review 03
+
+### Gewijzigde begrippen
+
+* Beslagbeslissing
+* Beslagportaal
+* Beslagvoorwerp
+* Beslagzaak
+
+### Belangrijkste inhoudelijke wijzigingen
+
+* De definities zijn aangescherpt volgens het principe *genus et differentia*.
+* De definitie van **Beslagvoorwerp** is verduidelijkt door expliciet te spreken over *strafvorderlijk beslag*.
+* De definitie van **Beslagzaak** legt nadruk op het vastleggen van gegevens en handelingen.
+* Voor alle vier de begrippen zijn begripstypering en een eerste PROV-classificatie toegevoegd.
+
+### Nieuw
+
+* Tabblad **Suggesties** toegevoegd.
+* Suggesties worden voortaan los bijgehouden van het officiële begrippenkader.
