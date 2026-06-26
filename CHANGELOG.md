@@ -35,3 +35,25 @@ Inhoudelijke semantische reviews starten vanaf de eerstvolgende commit.
 ### Begripstypering
 
 Voor bovenstaande begrippen is een eerste begripstypering toegevoegd als voorbereiding op verdere semantische modellering en een latere PROV-classificatie.
+
+## Semantic Review 02
+
+### Gewijzigde begrippen
+
+* Aantonen wederrechtelijk voordeel
+* Achterhalen waarheid
+* Afname afstandverklaring
+
+### Belangrijkste inhoudelijke wijzigingen
+
+* Definities zijn abstracter en minder casuïstisch geformuleerd.
+* Activiteiten zijn consequenter als activiteit beschreven.
+* Waar mogelijk is onderscheid gemaakt tussen een beslagvoorwerp als begrip en een voorwerp waarop beslag rust.
+
+### Begripstypering
+
+Toegevoegd voor:
+
+* Aantonen wederrechtelijk voordeel
+* Achterhalen waarheid
+* Afname afstandverklaring
