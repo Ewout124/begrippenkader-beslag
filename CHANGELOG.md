@@ -78,3 +78,28 @@ Toegevoegd voor:
 
 * Tabblad **Suggesties** toegevoegd.
 * Suggesties worden voortaan los bijgehouden van het officiële begrippenkader.
+
+## Semantic Review 04
+
+### Gewijzigde begrippen
+
+* Beslagdoel
+* Beslagdossier
+* Beslagene
+* Beslaggrondslag
+
+### Belangrijkste inhoudelijke wijzigingen
+
+* De definities zijn aangescherpt volgens het principe *genus et differentia*.
+* De definitie van **Beslagdoel** verduidelijkt dat het gaat om het juridische of feitelijke doel dat met strafvorderlijk beslag wordt nagestreefd.
+* **Beslagdossier** is scherper gedefinieerd als een samenhangende verzameling gegevens en documenten over een beslagzaak.
+* De definitie van **Beslagene** maakt expliciet dat het gaat om de persoon of organisatie ten laste van wie strafvorderlijk beslag is gelegd.
+* **Beslaggrondslag** is vereenvoudigd tot de wettelijke grond waarop het strafvorderlijk beslag berust.
+
+### Begripstypering
+
+Voor de vier behandelde begrippen is een begripstype en een eerste PROV-classificatie toegevoegd.
+
+### Redactieoverzicht
+
+Voor alle vier de begrippen is een redactievermelding toegevoegd volgens de bestaande conventie.
