@@ -103,3 +103,28 @@ Voor de vier behandelde begrippen is een begripstype en een eerste PROV-classifi
 ### Redactieoverzicht
 
 Voor alle vier de begrippen is een redactievermelding toegevoegd volgens de bestaande conventie.
+
+## Semantic Review 05
+
+### Gewijzigde begrippen
+
+* Beslaghandeling
+* Beslagproces
+* Beslagrol
+* Beslagstatus
+
+### Belangrijkste inhoudelijke wijzigingen
+
+* De definities zijn verder geharmoniseerd volgens het principe *genus et differentia*.
+* **Beslaghandeling** is explicieter gekoppeld aan het beslagproces waarvan de handeling deel uitmaakt.
+* **Beslagproces** is verduidelijkt als de samenhangende uitvoering van strafvorderlijk beslag gedurende de volledige levenscyclus.
+* **Beslagrol** legt nadrukkelijker de relatie met verantwoordelijkheden en bevoegdheden binnen een beslagproces.
+* **Beslagstatus** is aangescherpt door expliciet te spreken over de actuele toestand van een beslagvoorwerp binnen het beslagproces.
+
+### Begripstypering
+
+Voor de vier behandelde begrippen is een begripstype en een PROV-classificatie toegevoegd.
+
+### Redactieoverzicht
+
+Voor alle vier de begrippen is een redactievermelding toegevoegd volgens de bestaande conventie.
