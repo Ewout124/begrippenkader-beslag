@@ -128,3 +128,32 @@ Voor de vier behandelde begrippen is een begripstype en een PROV-classificatie t
 ### Redactieoverzicht
 
 Voor alle vier de begrippen is een redactievermelding toegevoegd volgens de bestaande conventie.
+
+## Semantic Review 06
+
+### Gewijzigde begrippen
+
+* Beslag
+* Beslagstuk
+* Beslissen over beslag
+* Besluitname
+
+### Belangrijkste inhoudelijke wijzigingen
+
+* De definities zijn verder geharmoniseerd volgens het principe *genus et differentia*.
+* **Beslag** is scherper gedefinieerd als strafvorderlijk dwangmiddel.
+* **Beslagstuk** is verduidelijkt als document dat onderdeel uitmaakt van een beslagdossier.
+* **Beslissen over beslag** is als activiteit geformuleerd, waarbij expliciet is gemaakt dat het gaat om het nemen van een beslissing over strafvorderlijk beslag.
+* **Besluitname** is vereenvoudigd en consequent als activiteit gedefinieerd.
+
+### Begripstypering
+
+Voor de vier behandelde begrippen is een begripstype en een PROV-classificatie toegevoegd.
+
+### Redactieoverzicht
+
+Voor alle vier de begrippen is een redactievermelding toegevoegd volgens de bestaande conventie.
+
+### Suggesties
+
+Naar aanleiding van Semantic Review 05 is een openstaand verbeterpunt toegevoegd voor de definitie van **Beslagrol**, met als aandachtspunt het onderscheid tussen *functie of positie* enerzijds en *verantwoordelijkheden en bevoegdheden* anderzijds.
