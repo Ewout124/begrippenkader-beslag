@@ -157,3 +157,28 @@ Voor alle vier de begrippen is een redactievermelding toegevoegd volgens de best
 ### Suggesties
 
 Naar aanleiding van Semantic Review 05 is een openstaand verbeterpunt toegevoegd voor de definitie van **Beslagrol**, met als aandachtspunt het onderscheid tussen *functie of positie* enerzijds en *verantwoordelijkheden en bevoegdheden* anderzijds.
+
+## Semantic Review 07
+
+### Gewijzigde begrippen
+
+* Bewijs van ontvangst
+* Buitenlands beslag
+* Conservatoir beslag
+* Deponeren
+
+### Belangrijkste inhoudelijke wijzigingen
+
+* De definities zijn verder geharmoniseerd volgens het principe *genus et differentia*.
+* **Bewijs van ontvangst** is verduidelijkt als document waarin de ontvangst van een voorwerp, document of geldbedrag wordt bevestigd.
+* **Buitenlands beslag** is scherper gepositioneerd als vorm van beslag binnen de internationale samenwerking.
+* **Conservatoir beslag** legt nadrukkelijker de relatie met het veiligstellen van verhaalsmogelijkheden of een mogelijke ontnemingsmaatregel.
+* **Deponeren** is verduidelijkt als activiteit waarbij een beslagvoorwerp op een aangewezen bewaarlocatie wordt ondergebracht.
+
+### Begripstypering
+
+Voor de vier behandelde begrippen is een begripstype en een PROV-classificatie toegevoegd.
+
+### Redactieoverzicht
+
+Voor alle vier de begrippen is een redactievermelding toegevoegd volgens de bestaande conventie.
